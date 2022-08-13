@@ -9,6 +9,8 @@ django-templated-mail==1.1.1
 djangorestframework==3.11.1
 djangorestframework-simplejwt==4.6.0
 djoser==2.0.3
+gunicorn @ file:///Users/ktietz/demo/mc3/conda-bld/gunicorn_1629874228120/work
+psycopg2 @ file:///Users/ktietz/demo/mc3/conda-bld/psycopg2_1629708680966/work
 PyJWT==2.0.0
 python-decouple==3.6
 pytz==2022.1
